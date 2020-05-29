@@ -11,4 +11,4 @@ function sumSalary(salaries) {
     }
   }
   return sum;
-}
+};
